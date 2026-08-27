@@ -1,6 +1,6 @@
 # Hey, I'm Lakshyaraj 👋
 
-I build practical projects while learning graphics programming, algorithms, web development, and machine learning.
+I build practical projects while learning graphics programming, algorithms and machine learning.
 
 ## Selected projects
 
