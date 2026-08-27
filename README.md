@@ -15,7 +15,6 @@ I build practical projects while learning graphics programming, algorithms and m
 
 - Real-time graphics and rendering
 - Algorithms and data structures
-- Full-stack application development
 - Machine-learning workflows
 
 Thanks for stopping by.
