@@ -32,10 +32,6 @@ I'm a developer who learns by building—from graphics and simulation projects t
 - Machine learning and transformer architectures
 - Building software from first principles
 
-## Technologies
-
-**Python** · **C++** · **JavaScript** · **Java** · **PyTorch** · **OpenGL**
-
 ---
 
 Always learning, experimenting, and turning ideas into working projects.
