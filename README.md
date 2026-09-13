@@ -14,13 +14,11 @@ I'm a developer who learns by building—from graphics and simulation projects t
 
 - [**OpenGL Renderer**](https://github.com/lakshyarajrtm/opengl_renderer) — an experimental C++ renderer using GLFW, GLAD, and GLM
 - [**Quad Tree Visualizer**](https://github.com/lakshyarajrtm/quad_trees) — an interactive spatial-partitioning demo built with olcPixelGameEngine
-- [**Terrain Generation Grid**](https://github.com/lakshyarajrtm/terrain_generation) — a C++ triangular-grid foundation for procedural terrain experiments
 - [**Self-Driving Car Playground**](https://github.com/lakshyarajrtm/self_driving_car) — a Canvas-based driving and sensor simulation written in plain JavaScript
 
 ### Algorithms and applications
 
 - [**Degrees of Separation**](https://github.com/lakshyarajrtm/degrees) — a breadth-first search program that connects actors through shared movies
-- [**eShop**](https://github.com/lakshyarajrtm/eShop) — a Django e-commerce application with catalogue, cart, checkout, and order management
 - [**Audio Footprinting**](https://github.com/lakshyarajrtm/audio-footprinting-main) — a Python experiment that parses WAV audio and applies a hand-written Fast Fourier Transform
 
 
