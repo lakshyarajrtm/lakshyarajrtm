@@ -21,7 +21,7 @@ I'm a developer who learns by building—from graphics and simulation projects t
 
 - [**Degrees of Separation**](https://github.com/lakshyarajrtm/degrees) — a breadth-first search program that connects actors through shared movies
 - [**eShop**](https://github.com/lakshyarajrtm/eShop) — a Django e-commerce application with catalogue, cart, checkout, and order management
-- [**Audio Footprinting**](https://github.com/lakshyarajrtm/audio-footprinting-main) — a Java experiment that parses WAV audio and applies a hand-written Fast Fourier Transform
+- [**Audio Footprinting**](https://github.com/lakshyarajrtm/audio-footprinting-main) — a Python experiment that parses WAV audio and applies a hand-written Fast Fourier Transform
 
 
 ## Interests
