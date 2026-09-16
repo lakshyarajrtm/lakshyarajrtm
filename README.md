@@ -7,7 +7,7 @@ I learn by building projects across numerical computing, graphics, algorithms, a
 - [**Compute**](https://github.com/lakshyarajrtm/compute-main) — a header-only C++17 numerical computing library with templated matrices and arithmetic operators.
 - [**Chessformer**](https://github.com/lakshyarajrtm/chessformer) — a Python chess engine with minimax and alpha-beta search, alongside a PyTorch move-dataset prototype. The transformer model is still in progress.
 - [**Audio Footprinting Algorithm**](https://github.com/lakshyarajrtm/audio-footprinting-main) — a Python experiment in audio footprinting that parses WAV files and uses a hand-written Fast Fourier Transform to analyze frequencies.
-- [**Ray Tracer**](https://github.com/lakshyarajrtm/raytracer) — a from-scratch c++ renderer exploring vector math, ray intersections, and shading.
+- [**OpenGL Renderer**](https://github.com/lakshyarajrtm/opengl_renderer) — a from-scratch c++ renderer using Opengl.
 
 ## More things I've built
 
